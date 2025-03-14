@@ -23,7 +23,7 @@ class ExtServiceImpl(extContext: ExtContext): ExtService(extContext) {
         TODO("Add your code here")
     }
 
-    override fun onRequestConfigurationPanel(context: Context?): View {
+    override fun onRequestConfigurationPanel(context: Context?): View? {
         TODO("Add your code here")
     }
 
